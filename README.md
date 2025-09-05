@@ -1,7 +1,6 @@
-# 👋 Hola, soy Misael
-
-Soy **Desarrollador Backend** con experiencia en **Python, Java, Spring Boot, y SQL**, además de haber trabajado con **microcontroladores (ESP32) y aplicaciones de IA**.  
-Me apasiona el desarrollo de **sistemas**, la **optimización de procesos** y la **aplicación de machine learning e IoT en proyectos reales**.
+# 👋 Hola
+Soy Ingeniero Biomédico con gran interés en el desarrollo de software backend, la inteligencia artificial y el IoT aplicado a la salud y sistemas inteligentes.
+Me apasiona crear soluciones que integren tecnología, datos y procesos para mejorar el rendimiento y la innovación en proyectos reales.
 
 ---
 
@@ -33,9 +32,10 @@ Me apasiona el desarrollo de **sistemas**, la **optimización de procesos** y la
 ---
 
 ### 🏥 RIS-INR – Sistema de Gestión de Radiología (Servicio Social, concluye en Dic 2025)
-➡️ Colaboración en repositorio compartido [(rama propia)](https://github.com/mjreb/RIS_INR/tree/Integracion_Misa). 
-- Implementé Servicio de Login: autenticación con **JWT** y filtros de seguridad.  
-- Rediseñé tablas en la BD para mejorar la semántica.
+➡️ Colaboración en repositorio [(rama propia)](https://github.com/mjreb/RIS_INR/tree/Integracion_Misa). 
+- Implementacion de Servicio de Login: autenticación con **JWT** y filtros de seguridad.
+- Implementación de Servicio de Gestión de Usuarios.
+- Normalización de tablas en la BD para mejorar la semántica.
 
 ---
 
@@ -50,7 +50,7 @@ Me apasiona el desarrollo de **sistemas**, la **optimización de procesos** y la
 ---
 
 ## 🎓 Educación
-**Licenciatura en Ingeniería biomédica** – Universidad [XYZ] (2019 – 2023)  
+**Licenciatura en Ingeniería biomédica** – Universidad Autónoma Metropolitana  
 
 ---
 
