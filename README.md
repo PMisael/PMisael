@@ -17,8 +17,8 @@ Me apasiona crear soluciones que integren tecnología, datos y procesos para mej
 
 ### 🧠 Proyecto Terminal – Timeless Turing
 ➡️ [Repositorio en GitHub](https://github.com/PMisael/Timeless-Turing)  
-- Red neuronal en **Python/Keras** para clasificación de poses de neonatos.  
-- Proyecto aplicado en el **INPer** para estimación temprana del neurodesarrollo.  
+- Red neuronal en **Python/Keras** para clasificación de poses.  
+- Proyecto terminal enfocado en generar un avance preliminar hacia la estimación temprana del neurodesarrollo neonatal.
 - Pipeline de preprocesamiento con **OpenCV** y exportación de resultados a CSV.  
 
 ---
