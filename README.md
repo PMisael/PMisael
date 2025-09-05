@@ -32,7 +32,7 @@ Me apasiona crear soluciones que integren tecnología, datos y procesos para mej
 ---
 
 ### 🏥 RIS-INR – Sistema de Gestión de Radiología (Servicio Social, concluye en Dic 2025)
-➡️ Colaboración en repositorio [(rama propia)](https://github.com/mjreb/RIS_INR/tree/Integracion_Misa). 
+➡️ Colaboración en repositorio [(rama propia)](https://github.com/almm62/LIIM-RISINR/tree/Integracion-Misa). 
 - Implementacion de Servicio de Login: autenticación con **JWT** y filtros de seguridad.
 - Implementación de Servicio de Gestión de Usuarios.
 - Normalización de tablas en la BD para mejorar la semántica.
